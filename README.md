@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Pratik
 
-<!--
-**pratikjetani0/pratikjetani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer Intern at @Blob station
 
-Here are some ideas to get you started:
+* 🌱 I’m learning: **React / Node.js / Express.js / Nest.js / MongoDB / SQL **
+* 💬 Ask me about: **Full stack Development**
+* 📫 How to reach me: **[pratikjetani.work@outlook.com](mailto:pratikjetani.work@outlook.com)**
+* ⚡ Fun fact: I love building things from scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: HTML, CSS, JavaScript, React
+* Backend: Node.js, Express
+* Database: MongoDB / MySQL
+* Tools: Git, GitHub, VS Code
+
+---
+
+## 🔗 Connect with me
+
+* Portfolio: [(add link)](https://pratikjetani.vercel.app/)
