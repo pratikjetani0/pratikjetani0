@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer Intern at @Blob station
 
-* 🌱 I’m learning: **React / Node.js / Express.js / Nest.js / MongoDB / SQL **
+* 🌱 I’m learning: **React / Node.js / Express.js / Nest.js / MongoDB / SQL**
 * 💬 Ask me about: **Full stack Development**
 * 📫 How to reach me: **[pratikjetani.work@outlook.com](mailto:pratikjetani.work@outlook.com)**
 * ⚡ Fun fact: I love building things from scratch
@@ -20,4 +20,4 @@
 
 ## 🔗 Connect with me
 
-* Portfolio: [(add link)](https://pratikjetani.vercel.app/)
+* Portfolio: [(Pratik)](https://pratikjetani.vercel.app/)
