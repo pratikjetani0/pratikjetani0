@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-* Frontend: HTML, CSS, JavaScript, React
+* Frontend: HTML, CSS, JavaScript, TypeScript, React
 * Backend: Node.js, Express
 * Database: MongoDB / MySQL
 * Tools: Git, GitHub, VS Code
